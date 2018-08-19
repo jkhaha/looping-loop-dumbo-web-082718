@@ -4,9 +4,4 @@ def looping
   end
 end
 
-loop
-
-
-loop do
-  puts "I have found the Time Machine!"
-end 
+looping
