@@ -1,8 +1,11 @@
-#def looping
-	#your code here
-#end
+def looping
+  loop do 
+    puts "Wingardium Leviosa!"
+  end
+end
 
-#call your method here
+loop
+
 
 loop do
   puts "I have found the Time Machine!"
